@@ -1,7 +1,7 @@
-[![MasterHead](https://img.freepik.com/free-vector/data-analysis-template-design_23-2150713872.jpg?w=740)]
+[![MasterHead](https://img.freepik.com/free-vector/illustration-data-analysis-graph_53876-18132.jpg?w=740)]
 <h1 align="center">Hi 👋, I'm Armeena Sabir</h1>
 <h3 align="center">Lecturar in Computer Science | Researcher| Software Engineer | AI | Machine Learning | Deep Learning | Meta Analysis | Open for Interdisciplnary Research</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/39Cg.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1600/0*C-cPP9D2MIyeexAT.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armeena-sabir&label=Profile%20views&color=0e75b6&style=flat" alt="armeena-sabir" /> </p>
 
